@@ -1,0 +1,21 @@
+.turn-highlighter{
+    color: white;
+}
+
+.grid{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.reset{
+   padding: 10px;
+   margin: 5px;
+   font-size: large;
+   font-weight: bold;
+   border: 1px solid black;
+   border-radius: 40%;
+   
+}
